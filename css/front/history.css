@@ -1,0 +1,61 @@
+#navHistory{
+    background-color: #23272d;
+    border-bottom: 1px solid #aa956f;
+    min-height: 100%;
+    padding-top: 40px;
+}
+#HistorySection{
+    padding: 0px !important;
+}
+
+#tabSection{
+    min-height: 100%;
+    /*width: 99%;*/
+}
+#tableHistory{
+    width: 70%;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+#titleTable{
+    padding-left: 40%;
+    width:100%;
+}
+
+.SubtitleTable{
+    background-color: cadetblue;
+}
+
+#tableHisSubscription{
+    width: 100%;
+    display: block;
+}
+
+
+#tableHisServices{
+    display:none;
+}
+
+
+#tableHisBill{
+    display:none;
+}
+
+#tableHisBillSouscription{
+    display:none;
+}
+
+
+#tableHisQuote{
+    display:none;
+}
+
+.buttonCase{
+    padding: 0% !important;
+    marging: 0% !important;
+}
+
+#RadioButton{
+    margin-bottom:2%;
+}

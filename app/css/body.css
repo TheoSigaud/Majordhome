@@ -1,0 +1,99 @@
+html, body {
+    height: 100%;
+}
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    font-family: Raleway;
+}
+
+.logo{
+
+
+    width: 25%;
+}
+
+#nav{
+
+
+    background-color: #23272d;
+    border-bottom: 1px solid #aa956f;
+
+
+}
+
+
+.btnLogout{
+
+     background-color:#aa956f !important;
+    color: #FFFFFF !important;
+    border-radius: 5px;
+
+}
+
+
+.colorLink{
+
+
+    color: #FFFFFF !important;
+    font-family: Raleway;
+    font-size: 15px;
+
+
+}
+
+.active{
+
+    color: #aa956f !important;
+}
+
+
+.colorLink:hover{
+
+    color: #aa956f !important;
+
+}
+
+
+.title{
+
+    font-family: Raleway;
+    color: #000000;
+    padding-top: 70px;
+
+}
+
+
+
+.hr{
+
+    width: 5%;
+    border: 1px solid #aa956f;
+}
+
+
+.lab {
+    margin-top: 20px;
+}
+
+.btn {
+    margin-top: 20px;
+}
+
+section{
+    flex: 1;
+}
+
+
+footer{
+    width: 100%;
+    background-color: #23272d;
+    height: 100px;
+    border-top: 2px solid #aa956f;
+    color: #FFFFFF;
+    font-family: Raleway;
+
+
+}

@@ -1,0 +1,61 @@
+.title{
+
+    font-family: Raleway;
+    color: #000000;
+    padding-top: 20px;
+
+}
+
+.title2{
+
+    font-family: Raleway;
+    color: #FFFFFF;
+    padding-top: 70px;
+}
+
+.hr{
+
+    width: 5%;
+    border: 1px solid #aa956f;
+}
+
+
+.form{
+
+
+	border:1px solid #aa956f;
+	border-radius: 5px;
+	padding: 10px;
+	
+}
+
+
+section{
+
+
+	padding-bottom: 150px;
+}
+
+.firstBtn{
+
+	float: right;
+}
+
+.btnService{
+
+
+	background-color:#aa956f !important;
+	color: #FFFFFF !important;
+	font-family: Raleway;
+	margin-bottom: 10px;
+}
+
+.createService{
+
+	float: right;
+}
+
+#table{
+
+	overflow: scroll !important;
+}

@@ -1,0 +1,17 @@
+/* CSS Document */
+
+@import url(body.css);
+@import url(front/service.css);
+@import url(front/payment.css);
+@import url(front/subscription.css);
+@import url(front/inbox.css);
+@import url(back/subscription.css);
+@import url(back/customer.css);
+@import url(front/history.css);
+@import url(back/category.css);
+@import url(back/serviceBack.css);
+@import url(back/bills.css);
+/*@import url(back/messagesBack.css);*/
+
+
+

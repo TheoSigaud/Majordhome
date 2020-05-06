@@ -1,0 +1,95 @@
+html, body {
+    height: 100%;
+}
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.logo{
+
+
+    width: 25%;
+}
+
+#nav{
+
+
+    background-color: #23272d;
+    border-bottom: 1px solid #aa956f;
+
+
+}
+
+
+.title{
+
+    font-family: Raleway;
+    color: #000000;
+    padding-top: 20px;
+
+}
+
+.title2{
+
+    font-family: Raleway;
+    color: #FFFFFF;
+    padding-top: 70px;
+}
+
+.hr{
+
+    width: 5%;
+    border: 1px solid #aa956f;
+}
+
+
+.form{
+
+        padding-top: 50px;
+        padding-bottom: 50px;
+
+
+}
+
+section{
+    flex: 1;
+}
+
+footer{
+
+    background-color: #23272d;
+    height: 100px;
+    border-top: 2px solid #aa956f;
+    color: #FFFFFF;
+    font-family: Raleway;
+
+}
+
+.form-signin {
+    /*width: 100%;*/
+    max-width: 500px;
+    padding: 15px;
+    margin: auto;
+    border: 1px solid #aa956f;
+    
+    border-radius: 10px;
+
+}
+
+#btnSubscription {
+    width: 100%;
+    background-color:#aa956f;
+    color: #FFFFFF;
+    
+
+}
+
+.inputRegister {
+    margin-bottom: 20px;
+}
+
+
+

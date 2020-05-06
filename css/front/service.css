@@ -1,0 +1,63 @@
+.btnServices {
+
+    background-color:#aa956f !important;
+    color: #FFFFFF !important;
+    border-radius: 5px;
+
+}
+
+.servicesCard{
+
+
+    border:1px solid #aa956f !important;
+    font-family: Raleway;
+}
+
+.cardHeader{
+
+    border-bottom: 1px solid #aa956f !important;
+
+
+
+}
+
+
+.masthead{
+
+
+    background-image:url(../../img/test.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /*background-color:#23272d; */
+    position: relative;
+    height: 350px
+}
+
+
+
+.containHeader{
+
+
+    width:50%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    color: white;
+    padding: 30px;
+    background-color: rgba(0,0,0,0.5);
+    font-family:Raleway;
+    font-size: 25px;
+
+}
+
+
+
+
+.servicesSection{
+
+
+    padding-bottom: 200px;
+}
+
+

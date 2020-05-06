@@ -1,0 +1,52 @@
+
+.title{
+
+    font-family: Raleway;
+    color: #000000;
+    /*padding-top: 30px;
+*/
+
+}
+
+.title2{
+
+    font-family: Raleway;
+    color: #FFFFFF;
+    padding-top: 70px;
+}
+
+.hr{
+
+    width: 5%;
+    border: 1px solid #aa956f;
+    
+}
+
+.form{
+
+
+	border:1px solid #aa956f;
+	border-radius: 5px;
+	padding: 15px;
+	
+}
+
+section{
+
+
+	padding-bottom: 150px;
+}
+
+.btnCategory{
+
+    background-color:#aa956f !important;
+    color: #FFFFFF !important;
+
+}
+
+#table{
+
+	overflow: scroll !important;
+	height: 300px !important;
+	
+}

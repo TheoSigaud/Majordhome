@@ -1,0 +1,185 @@
+body{
+
+    font-family: 'Raleway';
+}
+
+.h6{
+
+    color: #FFFFFF !important;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.p{
+    color: #FFFFFF !important;
+    padding-left: 10px;
+    font-size: 14px;
+
+
+}
+
+/*.block{
+
+  
+   
+   height: 700px;
+
+
+}*/
+
+section{
+ 
+    padding-bottom: 100px;
+}
+
+aside{
+
+    background-color: #23272d;
+
+
+    /*height: 100%;*/
+    border-radius: 5px 0px 0px 5px;
+    padding: 0 !important;
+}
+
+.ulMessage{
+
+
+    padding: 0;
+    margin:0;
+}
+
+.liMessage{
+
+    color: #FFFFFF;
+    font-family: 'Raleway';
+    padding: 15px;
+    list-style: none;
+
+   
+}
+
+.liMessage:hover{
+
+
+     background-color: #aa956f;
+
+
+}
+
+.bg{
+
+      background-color: #aa956f !important;
+
+}
+
+.ulMessage a{
+
+    text-decoration: none !important;
+    color: #FFFFFF !important;
+
+}
+
+.hr{
+
+    width: 5%;
+    border: 1px solid #aa956f;
+}
+
+
+
+.table-inbox {
+    border: 1px solid #d3d3d3;
+    margin-bottom: 0;
+
+}
+
+.table-inbox tr td {
+    padding: 12px !important;
+}
+
+.table-inbox tr td:hover {
+    cursor: pointer;
+}
+
+
+.table-inbox tr.unread td {
+    background: none repeat scroll 0 0 #f7f7f7;
+    font-weight: 600;
+}
+
+
+
+.headerAside{
+
+    height: 75px;
+}
+
+
+.headInbox{
+
+    height: 75px;
+    background-color: #23272d;
+
+
+}
+
+
+.view-message{
+
+    white-space: nowrap;
+    max-width: 30ch;
+    overflow: hidden;
+    color: #000000 !important;
+}
+
+
+#tab{
+    border:1px solid #aa956f;
+     border-radius: 5px;
+    padding: 5px;
+    overflow: scroll !important;
+    height: 500px !important;
+    
+}
+
+.check{
+    display: none;
+}
+
+
+.titleMessage{
+
+    color: #000000;
+    font-weight: 600;
+    margin: 10px;
+}
+
+
+.contains{
+
+    color: black !important;
+}
+
+
+
+
+.status{
+
+    font-size: 10px;
+    float: right;
+    color: black !important;
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    background-color: #FF7F50;
+}
+
+
+.emptyInbox{
+
+     background-color: #aa956f;
+     color: white;
+     padding: 4px;
+     border-radius: 5px;
+}

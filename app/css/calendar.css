@@ -1,0 +1,85 @@
+
+
+
+#tableCalendar {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	margin-bottom: 15%;
+}
+
+.thCalendar {
+	text-align: center;
+	width: 70px;
+}
+
+
+
+
+.numberCalendar {
+	text-align: center;
+	color: black;
+}
+
+.case {
+	border: 1px solid black;
+	height: 100px;
+	cursor: pointer;
+}
+
+.case:hover {
+	background-color: #8080806e;
+}
+
+#content {
+	height: 100%;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#prev {
+	float: left;
+	margin-left: 5%;
+	cursor: pointer;
+	color: #007bff;
+}
+
+#next {
+	float: right;
+	margin-right: 5%;
+	cursor: pointer;
+	color: #007bff;
+}
+
+#prev:hover{
+	color: #084c94;
+}
+
+#next:hover{
+	color: #084c94;
+}
+
+#titleCalendar {
+	text-align: center;
+	margin-bottom: 5%;
+}
+
+#arrow {
+	margin-top: 5%;
+}
+
+#today {
+	background-color: #609beb85;
+}
+
+#today:hover {
+	background-color: #609bebe6;
+}
+
+#linkToday {
+	margin-left: 5%;
+	width: 150px;
+	color: white;
+}
